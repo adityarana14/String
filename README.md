@@ -14,3 +14,5 @@ Q2) Given a String S, reverse the string without reversing its individual words.
 Q3) Given a array of N strings, find the longest common prefix among all strings present in the array.
 
 Q4) Given a palindromic number N in the form of string. The task is to find the smallest palindromic number greater than N using the same set of digits as in N.
+
+****************************************************************************************************************************************************************
